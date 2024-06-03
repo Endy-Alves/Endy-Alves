@@ -2,7 +2,9 @@
 <tr><br>
 <h2> My Stats: </h2>
 
+<div>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endy-Alves)](https://github.com/anuraghazra/github-readme-stats)
+</div>
   
 <br><tr>
 <h2>- ToolBox</h2>
