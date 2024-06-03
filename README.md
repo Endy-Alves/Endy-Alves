@@ -17,5 +17,4 @@
 </p><tr>
 <h3>- Let's get on with it</h3>
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedromogly/)](https://www.linkedin.com/in/pedromogly/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedromogly@gmail.com)](mailto:endyalves095@gmail.com)
