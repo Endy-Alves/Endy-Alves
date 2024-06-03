@@ -2,7 +2,7 @@
 <tr><br>
 <h2> My Stats: </h2>
 
-  ([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endy-Alves)](https://github.com/anuraghazra/github-readme-stats))
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endy-Alves)](https://github.com/anuraghazra/github-readme-stats)
   
 <br><tr>
 <h2>- ToolBox</h2>
