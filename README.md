@@ -18,3 +18,9 @@
 <h3>- Let's get on with it</h3>
   
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedromogly@gmail.com)](mailto:endyalves095@gmail.com)
+
+<style>
+   body{
+background-color: black;
+   }
+</style>
